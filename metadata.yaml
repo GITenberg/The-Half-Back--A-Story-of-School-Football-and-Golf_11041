@@ -1,0 +1,37 @@
+_repo: The-Half-Back--A-Story-of-School-Football-and-Golf_11041
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Clinedinst, B. West (Benjamin West)
+    alias: Clinedinst, Benjamin West
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '24800'
+    url: http://www.gutenberg.org/2009/agents/24800
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Golf -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'School sports -- Juvenile fiction'
+- !lcsh 'Football -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Half-Back: A Story of School, Football, and Golf'
+url: http://www.gutenberg.org/ebooks/11041
